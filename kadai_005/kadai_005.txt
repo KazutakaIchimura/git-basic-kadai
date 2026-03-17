@@ -21,6 +21,9 @@ PS C:\> cd git_challenge
 PS C:\git_challenge> git init
 Initialized empty Git repository in C:/git_challenge/.git/
 
+コマンド外作業（１）
+VS Code　エディタで「Hollo,world!」を記入
+
 ④インデックス登録
 
 PS C:\git_challenge> git add hello_world.txt
@@ -31,6 +34,9 @@ PS C:\git_challenge> git commit -m "hello_world.txtを追加"
 [main (root-commit) b345daa] hello_world.txtを追加
  1 file changed, 1 insertion(+)
  create mode 100644 hello_world.txt
+
+コマンド外作業（２）
+VS Code　エディタで「こんにちは、世界！」を追記
 
 ⑥２回目のコミット
 
