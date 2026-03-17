@@ -38,6 +38,10 @@ PS C:\git_challenge> git commit -m "hello_world.txtを追加"
 コマンド外作業（２）
 VS Code　エディタで「こんにちは、世界！」を追記
 
+コマンド実行　追加
+git add hello_world.txt
+ローカルブランチに追記した内容を入れてあげないと、コミットが出来ないので、この文言は必ずいれる。
+
 ⑥２回目のコミット
 
 PS C:\git_challenge> git commit -m "日本語訳を追記"
